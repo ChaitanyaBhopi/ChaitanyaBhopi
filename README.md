@@ -1,62 +1,80 @@
-# Hi 👋, I'm Chaitanya Bhopi
+# 📊 Data Analyst Portfolio
 
-🎓 Final Year IT Engineering Student
-
-📊 Aspiring Data Analyst
-
-Currently learning:
-- Cisco Data Analytics Essentials
-- SQL
-- Power BI
-- Python
-- Excel
+Hi! I'm **Chaitanya Bhopi**, a Final Year B.E. Information Technology student passionate about **Data Analytics, Business Intelligence, and Data Visualization**.
 
 ---
 
-## Skills
+## 👨‍💻 About Me
 
-💻 Programming
-- Python
-- SQL
+- 🎓 Final Year B.E. Information Technology
+- 📊 Aspiring Data Analyst
+- 🌱 Currently learning Data Analytics Essentials
+- 📚 Learning SQL, Python, Excel, and Power BI
+- 📈 Interested in solving business problems using data
+- 🚀 Building practical data analytics projects
 
-📊 Data Analysis
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python (Basics)
+- SQL (Learning)
+
+### Data Analysis
 - Pandas
 - NumPy
 - Data Cleaning
-- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Basic Statistics
 
-📈 BI Tools
+### Data Visualization
 - Power BI
-- Excel
+- Microsoft Excel
+- Matplotlib
 
-🛠 Other
+### Tools
 - Git
 - GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-## Featured Projects
+## 📂 Portfolio Sections
 
-### Cosmetics Price Prediction
-Machine Learning model for predicting cosmetic product prices.
-
-### NetSecure
-Smart Network Monitoring Tool that scans home networks for security risks.
-
-### SQL Practice
-Collection of SQL interview questions and solutions.
-
-### Power BI Dashboards
-Interactive business dashboards built using Power BI.
+- 📁 Projects
+- 📁 SQL Practice
+- 📁 Python Notebooks
+- 📁 Power BI Dashboards
+- 📁 Excel Dashboards
+- 📁 Certificates
+- 📁 Resume
 
 ---
 
-## Goals for 2026
+## 🎯 Career Goal
 
-- Complete Data Analytics Essentials
-- Build 10 Data Analytics Projects
-- Master SQL
-- Learn Power BI
-- Secure a Data Analyst role
+To become a Data Analyst who uses data to solve real-world business problems and support better decision-making.
 
-Thanks for visiting my profile!
+---
+
+## 📈 Current Learning Roadmap
+
+- ✅ Data Analytics Essentials
+- 🔄 SQL
+- 🔄 Excel (Advanced)
+- 🔄 Python for Data Analysis
+- 🔄 Power BI
+- ⏳ Tableau (Future)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [Chaitanya Bhopi](https://www.linkedin.com/in/chaitanya-bhopi-9a1981394)
+- 💻 **GitHub:** [ChaitanyaBhopi](https://github.com/ChaitanyaBhopi)
+- 📧 **Email:** chaitanyabhopi4@gmail.com
+---
+
+⭐ Thank you for visiting my portfolio! Feel free to explore my projects and connect with me.
